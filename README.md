@@ -15,7 +15,7 @@ It is used to count passngers that come down at a particular bus stop.
 - Javascript
 
 ## Links
-Live link - https://steady-tulumba-5dc5a1.netlify.app/
+Live link - https://people-counter-app-by-edoye.netlify.app/
 
 ## Mobile view
 
